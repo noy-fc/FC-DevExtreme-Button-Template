@@ -1,0 +1,19 @@
+#myButton {
+  color: orange;
+  border-color: #ffca51;
+  icon-color: yellow;
+}
+
+#myButton.dx-state-hover {
+  background-color: #fff9e6;
+  color: orange;
+}
+
+#myButton.dx-state-active {
+  background-color: #ffedb3;
+  color: orange;
+}
+
+#myButton .dx-icon {
+  color: orange;
+}
